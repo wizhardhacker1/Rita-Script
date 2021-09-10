@@ -12,3 +12,7 @@ clear
 Copy to txt editor save as sh file 
 run sudo chmod +x file.sh
 add to cron to run ever 1 hour
+
+*make sure apace is installed 
+* this will give you the html dashboard that changes ever 1 hour for 24 hours
+* open http://yourip 
